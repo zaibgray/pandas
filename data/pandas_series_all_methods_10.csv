@@ -1,0 +1,11 @@
+id,name,age,score,city,department,salary,active,date,email
+1, Ali Khan ,22.0,85.0,Karachi,IT,60000.0,True,2025-01-05 09:30:00, ALI@EXAMPLE.COM 
+2,Sara Ahmed,25.0,72.0,Lahore,HR,75000.0,False,2025-01-12 10:15:00,sara@example.com
+3, Ali Khan ,22.0,85.0,Karachi,IT,60000.0,True,2025-01-19 11:00:00,ALI@EXAMPLE.COM 
+4,Usman Ali,31.0,,Islamabad,Finance,90000.0,True,2025-02-03 14:20:00,usman@example.com
+5,Ayesha Noor,28.0,68.0,,HR,65000.0,False,,ayesha@example.com
+6,Bilal Ahmed,,95.0,Lahore,IT,,True,2025-02-18 16:45:00,
+7,Sara Ahmed,25.0,72.0,Lahore,HR,75000.0,False,2025-03-01 09:00:00,sara@example.com
+8,Hira Khan,24.0,84.0,Karachi,Finance,85000.0,True,2025-03-14 12:30:00,hira@example.com
+9,Omar Farooq,35.0,55.0,Multan,Marketing,150000.0,False,2025-04-02 18:10:00,omar@example.com
+10,Ayesha Noor,28.0,68.0,Islamabad,HR,65000.0,True,2025-04-20 20:00:00,ayesha@example.com
