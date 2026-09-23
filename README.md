@@ -58,7 +58,7 @@ If it helps you learn too, that's a bonus.
 
 * **Projects** — coming soon
 * **NumPy** — check out my [NumPy notes](https://github.com/zaibgray/numpy)
-* **Matplotlib** — check out my [NumPy notes](https://github.com/zaibgray/matplotlib)
+* **Matplotlib** — check out my [Matplotlib notes](https://github.com/zaibgray/matplotlib)
 * Official [Pandas documentation](https://pandas.pydata.org/docs/)
 * More notes on my [GitHub account](https://github.com/zaibgray)
 
